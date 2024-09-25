@@ -21,10 +21,6 @@ o	Enhanced Styling: Apply Tailwind CSS for additional styling.
 o	CORS Setup: Configure Cross-Origin Resource Sharing.
 o	Data Exchange: Manage data flow between frontend and backend.
 
-**Deployment and Hosting:**
-o	Production Preparation: Optimize the app for deployment.
-o	Cloud Deployment: Deploy to AWS
-
 **Bonus Features:**
 o	Payment Gateways: Integrate Razorpay for transactions.
 o	Advanced Features: Implement user reviews and product recommendations.
@@ -33,6 +29,5 @@ o	Advanced Features: Implement user reviews and product recommendations.
 **Technologies Used:**
 •	Backend: Spring Boot, Spring Security, JWT, PostgreSQL
 •	Frontend: React, MUI (Material-UI), Tailwind CSS
-•	Deployment: AWS Cloud
 •	Payment Gateway: Razorpay
 •	Tools: GitHub, Postman
